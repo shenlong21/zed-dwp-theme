@@ -1,7 +1,7 @@
-id = "dwp-theme"
-name = "Dwp theme"
+id = "dwp"
+name = "Dwp"
 version = "0.0.1"
 schema_version = 1
 authors = ["Sachin Jangir <sachinjangir0181@gmail.com>"]
-description = "A theme for perfectionists"
+description = "A minimal theme designed with perfection (dwp)"
 repository = "https://github.com/shenlong21/zed-dwp-theme"
