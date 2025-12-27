@@ -4,7 +4,7 @@
   "author": "Sachin Jangir",
   "themes": [
     {
-      "name": "Dwp Dark from extension",
+      "name": "Dwp Dark",
       "appearance": "dark",
       "style": {
         "border": "#181818",
@@ -165,7 +165,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#1ab837",
+            "color": "#84bbf5",
             "font_style": null,
             "font_weight": null
           },
