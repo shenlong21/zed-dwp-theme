@@ -4,7 +4,7 @@
   "author": "Sachin Jangir",
   "themes": [
     {
-      "name": "Dwp Dark",
+      "name": "Dwp dark",
       "appearance": "dark",
       "style": {
         "border": "#181818",
@@ -17,7 +17,7 @@
         "element.disabled": "#2e343eff",
         "drop_target.background": "#83899480",
 
-        "ghost_element.background": "#00000000",
+        "ghost_element.background": "#000000",
         "ghost_element.hover": "#363c46ff",
         "ghost_element.active": "#454a56ff",
         "ghost_element.selected": "#454a56ff",
@@ -388,7 +388,6 @@
       "style": {
         "border": "#f4f4f4",
         "background": "#f4f4f4",
-
         "element.background": "#d8d8d8",
         "element.hover": "#f4f4f4",
         "element.active": "#e4e4e4",
@@ -398,11 +397,11 @@
 
         "ghost_element.hover": "#e4e4e4",
         "ghost_element.active": "#d4d4d4",
-        "ghost_element.selected": "#454a56ff",
+        "ghost_element.selected": "#c0c0c0",
         "ghost_element.disabled": "#2e343eff",
 
         "text": "#000000",
-        "text.muted": "#909090",
+        "text.muted": "#404040",
         "text.placeholder": "#404040",
         "text.disabled": "#909090",
         "text.accent": "#404040",
@@ -422,15 +421,15 @@
         "tab.active_background": "#ffffff",
         "search.match_background": "#f4f4f4",
         "panel.background": "#f4f4f4",
-        "panel.focused_border": null,
-        "pane.focused_border": null,
+        "panel.focused_border": "#f9f9f9",
 
-        "scrollbar.thumb.background": "#c8ccd44c",
-        "scrollbar.thumb.hover_background": "#363c46ff",
-        "scrollbar.thumb.border": "#363c46ff",
-        "scrollbar.track.background": "#00000000",
-        "scrollbar.track.border": "#2e333cff",
+        "scrollbar.thumb.background": "#e8e8e8",
+        "scrollbar.thumb.hover_background": "#d4d4d4",
+        "scrollbar.thumb.border": "#d4d4d4",
+        "scrollbar.track.background": "#fdfdfd",
+        "scrollbar.track.border": "#ffffff",
 
+        // editor
         "editor.foreground": "#000000",
         "editor.background": "#ffffff",
 
@@ -451,22 +450,25 @@
         "terminal.foreground": "#000000",
 
         "link_text.hover": "#74ade8ff",
+        "elevated_surface.background": "ff0000",
+        "surface.background": "#181818",
 
         "version_control.added": "#27a657ff",
         "version_control.modified": "#d3b020ff",
         "version_control.deleted": "#e06c76ff",
         "version_control.conflict_marker.ours": "#a1c1811a",
         "version_control.conflict_marker.theirs": "#74ade81a",
+
         "conflict": "#dec184ff",
         "conflict.background": "#dec1841a",
         "conflict.border": "#5d4c2fff",
-        "created": "#a1c181ff",
+        "created": "#498704",
         "created.background": "#a1c1811a",
         "created.border": "#38482fff",
-        "deleted": "#d07277ff",
+        "deleted": "#B3121C",
         "deleted.background": "#d072771a",
         "deleted.border": "#4c2b2cff",
-        "error": "#d07277ff",
+        "error": "#B3121C",
         "error.background": "#d072771a",
         "error.border": "#4c2b2cff",
         "hidden": "#878a98ff",
@@ -481,7 +483,7 @@
         "info": "#74ade8ff",
         "info.background": "#74ade81a",
         "info.border": "#293b5bff",
-        "modified": "#dec184ff",
+        "modified": "#916807",
         "modified.background": "#dec1841a",
         "modified.border": "#5d4c2fff",
 
@@ -498,7 +500,7 @@
         "unreachable": "#a9afbcff",
         "unreachable.background": "#8389941a",
         "unreachable.border": "#464b57ff",
-        "warning": "#dec184ff",
+        "warning": "#DB9612",
         "warning.background": "#dec1841a",
         "warning.border": "#5d4c2fff",
         "players": [
@@ -605,7 +607,7 @@
             "font_weight": null
           },
           "keyword": {
-            "color": "#F59F5D",
+            "color": "#A10A8C",
             "font_style": null,
             "font_weight": null
           },
