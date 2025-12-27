@@ -429,7 +429,6 @@
         "scrollbar.track.background": "#fdfdfd",
         "scrollbar.track.border": "#ffffff",
 
-        // editor
         "editor.foreground": "#000000",
         "editor.background": "#ffffff",
 
