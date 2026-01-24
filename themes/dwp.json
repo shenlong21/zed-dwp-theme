@@ -17,7 +17,6 @@
         "element.disabled": "#2e343eff",
         "drop_target.background": "#83899480",
 
-        "ghost_element.background": "#000000",
         "ghost_element.hover": "#363c46ff",
         "ghost_element.active": "#454a56ff",
         "ghost_element.selected": "#454a56ff",
@@ -36,10 +35,10 @@
         "icon.accent": "#74ade8ff",
 
         "status_bar.background": "#181818",
-        "title_bar.background": "#181818",
+        "title_bar.background": "#141414",
         "title_bar.inactive_background": "#2e343eff",
         "toolbar.background": "#1f1f1f",
-        "tab_bar.background": "#181818",
+        "tab_bar.background": "#1a1a1a",
         "tab.inactive_background": "#181818",
         "tab.active_background": "#1f1f1f",
         "search.match_background": "#74ade866",

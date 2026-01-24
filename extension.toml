@@ -1,6 +1,6 @@
 id = "dwp"
 name = "dwp"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Sachin Jangir <sachinjangir0181@gmail.com>"]
 description = "A minimal theme designed with perfection (dwp)"
