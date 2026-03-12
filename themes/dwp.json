@@ -7,7 +7,7 @@
       "name": "Dwp dark",
       "appearance": "dark",
       "style": {
-        "border": "#181818",
+        "border": "#2e2e2e",
         "background": "#101010",
 
         "element.background": "#2e343eff",
